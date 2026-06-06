@@ -23,6 +23,6 @@ public class Player : MonoBehaviour
     }
     void FixedUpdate()
     {
-        rb.velocity = new Vector2(0, playerDirection.y*playerSpeed);
+        rb.linearVelocity = new Vector2(0, playerDirection.y*playerSpeed);
     }
 }

@@ -1,5 +1,45 @@
-Library/
-Temp/
-Logs/
-UserSettings/
+# =====================
+# Unity generated files
+# =====================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# =====================
+# Visual Studio / IDE
+# =====================
+.vs/
 .vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# =====================
+# Unity auto-generated
+# =====================
+*.apk
+*.aab
+*.unitypackage
+*.log
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Cache / Package manager
+# =====================
+Packages/packages-lock.json
